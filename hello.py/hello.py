@@ -1,3 +1,6 @@
 # hello.py
 
-print("Hello from function town")
+def hello():
+    print("Hello from function town")
+
+hello()
